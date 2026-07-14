@@ -168,7 +168,7 @@ This project is licensed under the MIT License.
 
 B.Tech – Computer Science and Engineering (Artificial Intelligence & Machine Learning)
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/anshuktiwari014
 
 LinkedIn: https://www.linkedin.com/in/anshu-tiwari-29b056383/
 
