@@ -170,7 +170,7 @@ B.Tech – Computer Science and Engineering (Artificial Intelligence & Machine L
 
 GitHub: https://github.com/your-username
 
-LinkedIn: https://www.linkedin.com/in/your-linkedin
+LinkedIn: https://www.linkedin.com/in/anshu-tiwari-29b056383/
 
 ---
 
